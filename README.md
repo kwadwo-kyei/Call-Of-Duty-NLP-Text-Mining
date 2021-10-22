@@ -8,6 +8,7 @@ During client meetings, these questions emerged as a starting point but you are 
 -	Can social media analytics help measure the volume of specific terms like “gg” or “good game” (or other specific gaming terms)?  
 -	Conversations related to the league, competitions, mentions of a competitor league called “Warzone” would be of interest
 -	Basic technical issues/glitches that represent product issues or improvement
+-	How the game environment could be improved and more interactive?
 
 ## Approach
 Out of 9 possible teams to use in my Analysis, I decided to use 3 random e-sport teams for my analysis and decided to analyze the team tweets and team followers tweets to investigate if there is a positive or negative relationship between the tweets of teams and it's twitter followers.
